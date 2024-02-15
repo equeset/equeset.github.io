@@ -6,21 +6,20 @@
     <description>Recent content in Tags on 杂货框</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>me@example.com (Septem)</managingEditor>
-    <webMaster>me@example.com (Septem)</webMaster>
+    <lastBuildDate>Thu, 15 Feb 2024 16:01:23 +0800</lastBuildDate>
     <atom:link href="https://equeset.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>学习方法</title>
-      <link>https://equeset.github.io/tags/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>me@example.com (Septem)</author>
-      <guid>https://equeset.github.io/tags/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/</guid>
+      <title>blog_about</title>
+      <link>https://equeset.github.io/tags/blog_about/</link>
+      <pubDate>Thu, 15 Feb 2024 16:01:23 +0800</pubDate>
+      <guid>https://equeset.github.io/tags/blog_about/</guid>
       <description></description>
     </item>
     <item>
-      <title>阅读笔记</title>
-      <link>https://equeset.github.io/tags/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>me@example.com (Septem)</author>
-      <guid>https://equeset.github.io/tags/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</guid>
+      <title>hugo</title>
+      <link>https://equeset.github.io/tags/hugo/</link>
+      <pubDate>Thu, 15 Feb 2024 16:01:23 +0800</pubDate>
+      <guid>https://equeset.github.io/tags/hugo/</guid>
       <description></description>
     </item>
   </channel>

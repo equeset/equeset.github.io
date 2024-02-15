@@ -6,15 +6,14 @@
     <description>Recent content in index on 杂货框</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>me@example.com (Septem)</managingEditor>
-    <webMaster>me@example.com (Septem)</webMaster>
+    <lastBuildDate>Thu, 15 Feb 2024 16:01:23 +0800</lastBuildDate>
     <atom:link href="https://equeset.github.io/categories/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>快乐竞争力</title>
-      <link>https://equeset.github.io/post/happiness_advantage/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>me@example.com (Septem)</author>
-      <guid>https://equeset.github.io/post/happiness_advantage/</guid>
-      <description>reading_ps:: 2023 年度截止到 2023-06-02 读到的唯一一本没有各种老中人推荐序和译者序的译作，且只有一段自谦的后记。是个女译者。 快乐竞争力 🛫 2023-05-26 ✅ 2023-06-21 记得:: 封面:: 作者l</description>
+      <title>blog测试网页</title>
+      <link>https://equeset.github.io/post/testpage/</link>
+      <pubDate>Thu, 15 Feb 2024 16:01:23 +0800</pubDate>
+      <guid>https://equeset.github.io/post/testpage/</guid>
+      <description>一个测试文档，讲述了建立此博客的悲惨过程。 跟着教程做了许多遍莫名错了很多以后……终于！！ 反正也不知道错在哪里，总之错着错着就对了，为什么？！</description>
     </item>
   </channel>
 </rss>
