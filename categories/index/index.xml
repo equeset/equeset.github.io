@@ -10,9 +10,9 @@
     <atom:link href="https://equeset.github.io/categories/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog测试网页</title>
-      <link>https://equeset.github.io/post/testpage/</link>
+      <link>https://equeset.github.io/post/test-page/</link>
       <pubDate>Thu, 15 Feb 2024 16:01:23 +0800</pubDate>
-      <guid>https://equeset.github.io/post/testpage/</guid>
+      <guid>https://equeset.github.io/post/test-page/</guid>
       <description>一个测试文档，讲述了建立此博客的悲惨过程。 跟着教程做了许多遍莫名错了很多以后……终于！！ 反正也不知道错在哪里，总之错着错着就对了，为什么？！</description>
     </item>
   </channel>
