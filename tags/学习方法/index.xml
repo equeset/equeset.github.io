@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>学习方法 on 杂货框</title>
+    <link>https://equeset.github.io/tags/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/</link>
+    <description>Recent content in 学习方法 on 杂货框</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>me@example.com (Septem)</managingEditor>
+    <webMaster>me@example.com (Septem)</webMaster>
+    <atom:link href="https://equeset.github.io/tags/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>快乐竞争力</title>
+      <link>https://equeset.github.io/post/happiness_advantage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>me@example.com (Septem)</author>
+      <guid>https://equeset.github.io/post/happiness_advantage/</guid>
+      <description>reading_ps:: 2023 年度截止到 2023-06-02 读到的唯一一本没有各种老中人推荐序和译者序的译作，且只有一段自谦的后记。是个女译者。 快乐竞争力 🛫 2023-05-26 ✅ 2023-06-21 记得:: 封面:: 作者l</description>
+    </item>
+  </channel>
+</rss>
