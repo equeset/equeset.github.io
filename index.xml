@@ -90,6 +90,9 @@
 &lt;li&gt;
 &lt;p&gt;跟教程没有&lt;code&gt;git branch -M master&lt;/code&gt;结果对不上。&lt;/p&gt;
 &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;教程不讲更改toml。&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
       
