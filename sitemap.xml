@@ -10,62 +10,69 @@
   
   <url>
     <loc>https://equeset.github.io/categories/blog/</loc>
-    <lastmod>2024-02-15T16:01:23+08:00</lastmod>
+    <lastmod>2024-02-16T13:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://equeset.github.io/tags/blog_about/</loc>
-    <lastmod>2024-02-15T16:01:23+08:00</lastmod>
+    <lastmod>2024-02-16T13:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://equeset.github.io/post/001-test-page/</loc>
-    <lastmod>2024-02-15T16:01:23+08:00</lastmod>
+    <loc>https://equeset.github.io/post/002-test-style/</loc>
+    <lastmod>2024-02-16T13:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://equeset.github.io/categories/</loc>
-    <lastmod>2024-02-15T16:01:23+08:00</lastmod>
+    <lastmod>2024-02-16T13:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://equeset.github.io/tags/hugo/</loc>
-    <lastmod>2024-02-15T16:01:23+08:00</lastmod>
+    <lastmod>2024-02-16T13:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://equeset.github.io/categories/index/</loc>
-    <lastmod>2024-02-15T16:01:23+08:00</lastmod>
+    <lastmod>2024-02-16T13:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://equeset.github.io/post/</loc>
-    <lastmod>2024-02-15T16:01:23+08:00</lastmod>
+    <lastmod>2024-02-16T13:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://equeset.github.io/tags/</loc>
-    <lastmod>2024-02-15T16:01:23+08:00</lastmod>
+    <lastmod>2024-02-16T13:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://equeset.github.io/</loc>
+    <lastmod>2024-02-16T13:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://equeset.github.io/post/001-test-page/</loc>
     <lastmod>2024-02-15T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

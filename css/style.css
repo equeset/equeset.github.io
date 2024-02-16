@@ -1,0 +1,14 @@
+/* static/css/style.css */
+
+/* Text Styles */
+
+strong {
+  color: #205867; /* Bold text color */
+  font-weight: 700; /* Bold font weight */
+}
+
+em {
+  color: #b2a2c7; /* Italic text color */
+  font-style: italic;
+  font-weight: 300; /* Lighter font weight for italic text */
+}
