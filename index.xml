@@ -6,7 +6,7 @@
     <description>Recent content on 杂货框</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Feb 2024 12:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2024 22:36:04 +0800</lastBuildDate>
     
         <atom:link href="https://equeset.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -25,31 +25,40 @@
     </item>
     
     <item>
-      <title>blog样式网页</title>
-      <link>https://equeset.github.io/post/002-test-style/</link>
-      <pubDate>Fri, 16 Feb 2024 12:01:23 +0800</pubDate>
+      <title>浏览器常用插件</title>
+      <link>https://equeset.github.io/post/2024-02-16-%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6/</link>
+      <pubDate>Fri, 16 Feb 2024 22:36:04 +0800</pubDate>
       
-      <guid>https://equeset.github.io/post/002-test-style/</guid>
+      <guid>https://equeset.github.io/post/2024-02-16-%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6/</guid>
       
-        <description>&lt;p&gt;这是一段普通文本。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;这是引用&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;em&gt;这是斜体&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这是加粗&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;这是一段混合的字体。&lt;em&gt;斜体&lt;/em&gt;&amp;amp;&lt;strong&gt;加粗&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
+        <description>&lt;h3 id=&#34;1-视频浏览&#34;&gt;1. 视频浏览&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;油猴（篡改猴）+HTML 5 播放助手&lt;/strong&gt;:可以调节速度、亮度等基本视频信息，注意快捷键或许与 &lt;a href=&#34;#%5E988abc&#34;&gt;Vimium&lt;/a&gt; 冲突。适用所有不想点来点去调节视频速度且甚至想要调到 2 倍速以上的场景，非常好用。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Open-as-Popup&lt;/strong&gt;：把当前窗口单独弄出去，更简洁且仍可使用网页插件其他插件。适用于屏幕不那么大想尽可能榨干空间的情况（？）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FireShot&lt;/strong&gt;：截图插件，免费够使。&lt;/p&gt;
+&lt;h3 id=&#34;2-阅读与信息&#34;&gt;2. 阅读与信息&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Tabcopy&lt;/strong&gt;：将网址复制为 md 格式，会配合 Obsidian 进行使用。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;简悦&lt;/strong&gt;：很牛的阅读插件，但是和我相性不好……作者的教程设计非常执迷于连续跳转（即跳到 A 网页以后跳到了 B 又显示还有别的相关内容在 C，于是你就要从 C 做起但是门外汉搞 C 可能又要经历一遍。），经常给我跳蒙……黑名单经常失灵，也不知道是我写得不对还是怎样。保存到 Obsidian 的功能倒是比较好使，基本只是在用这个功能。心情复杂……&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Roam-Highlighter&lt;/strong&gt;：如果你习惯网页直接阅读并且复制下关键内容可以使用这个，萤光笔一口气划够，之后全部复制走。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vimium&lt;/strong&gt;：浏览器快捷键。使用键盘操作浏览器的插件。主要被我用于给长长的网页加入书签，下次跳转继续阅读。如果快捷键冲突，可以在不想使用它的网页点击它的图标然后 add rules。 ^988abc&lt;/p&gt;
+&lt;h3 id=&#34;3-浏览器管理&#34;&gt;3. 浏览器管理&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Toby&lt;/strong&gt;：管理网页，一种更方便的书签。基本可以按照类别存放，很便利，是实际使用频率最高的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SimpleExtManager&lt;/strong&gt;：管理浏览器插件的插件（套娃）。更好地打开、关闭插件，可以给插件设置群组，集体打开和关闭，好使。&lt;/p&gt;
+&lt;h3 id=&#34;4-翻译&#34;&gt;4. 翻译&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;沉浸式翻译&lt;/strong&gt;：每段挨个翻译，可以对比着看。缺点是会影响下面这个插件的使用……得选显示原文，否则无法正常加载字幕。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Language Reactor&lt;/strong&gt;：油管中英对比字幕，可以点击查看单词含义&amp;amp;发音。更多功能如导出到 anki 需要付费。此处也推荐一个可以下载油管等视频网站&lt;em&gt;下载字幕&lt;/em&gt;的网站 &lt;a href=&#34;https://downsub.com/&#34;&gt;https://downsub.com/&lt;/a&gt; 。&lt;/p&gt;
+&lt;h3 id=&#34;5-下载&#34;&gt;5. 下载&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;IDM&lt;/strong&gt;：什么？还有人没用 IDM 吗？IDM 可以联动油猴搭配 API 下载插件去下某度大文件。嗯……省得开客户端（话说某度的客户端根本就是在偷摸挖矿吧）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Billfish&lt;/strong&gt;：搭配本地 app 一键把图拉下存储到本地。是免费版的那啥，那啥来着？忘了。&lt;/p&gt;
 </description>
       
     </item>
     
     <item>
       <title>blog测试网页</title>
-      <link>https://equeset.github.io/post/001-test-page/</link>
+      <link>https://equeset.github.io/post/2024-02-16-test-page/</link>
       <pubDate>Thu, 15 Feb 2024 16:01:23 +0800</pubDate>
       
-      <guid>https://equeset.github.io/post/001-test-page/</guid>
+      <guid>https://equeset.github.io/post/2024-02-16-test-page/</guid>
       
         <description>&lt;p&gt;一个测试文档，讲述了建立此博客的悲惨过程。&lt;/p&gt;
 &lt;p&gt;跟着教程做了许多遍莫名错了很多以后……终于！！&lt;/p&gt;
@@ -61,7 +70,7 @@
 &lt;p&gt;去终端干活（cd 到 site 的文件夹）：&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;hugo --theme=你的主题名 --baseURL=&amp;quot;https://你的id.github.io/&amp;quot;&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;cd public&lt;/code&gt;  去 public 文件夹干活&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;git init&lt;/code&gt;  初始化 git，仅第一次需要&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;git init&lt;/code&gt;  初始化 git，&lt;em&gt;仅第一次需要&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;git add .&lt;/code&gt;  把现在的文档加一下，别忘敲后面那个小点&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;git commit -m &amp;quot;first commit&amp;quot;&lt;/code&gt;  或者似乎可以用&lt;!-- raw HTML omitted --&gt;git commit -m &amp;ldquo;first push&amp;rdquo;&lt;!-- raw HTML omitted --&gt;，但导航页是用的 commit&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;git branch -M master&lt;/code&gt;  坑 ，导航页让用的 main！根本 push 不上去一点点……&lt;/p&gt;
