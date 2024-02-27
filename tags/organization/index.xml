@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>organization on 小狐狸的杂货框</title>
-    <link>https://equeset.github.io/tags/organization/</link>
+    <link>https://www.furrytailsbox.com/tags/organization/</link>
     <description>Recent content in organization on 小狐狸的杂货框</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 26 Feb 2024 21:56:24 +0800</lastBuildDate>
-    <atom:link href="https://equeset.github.io/tags/organization/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.furrytailsbox.com/tags/organization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ThunderBird 邮箱日历RSS一体机</title>
-      <link>https://equeset.github.io/post/2024-02-27-thunderbird/</link>
+      <link>https://www.furrytailsbox.com/post/2024-02-27-thunderbird/</link>
       <pubDate>Mon, 26 Feb 2024 21:56:24 +0800</pubDate>
-      <guid>https://equeset.github.io/post/2024-02-27-thunderbird/</guid>
+      <guid>https://www.furrytailsbox.com/post/2024-02-27-thunderbird/</guid>
       <description>一个非常好用的邮箱 all in one 软件。可以自动邮件筛选分类、会默认屏蔽远程消息以保护隐私、开源免费、键盘快捷键操作方便、支持 matrix 聊天、RSS 订阅、新闻</description>
     </item>
   </channel>

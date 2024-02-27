@@ -1,113 +1,113 @@
-<?xml-stylesheet type="text/xsl" href="https://equeset.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.furrytailsbox.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://equeset.github.io/about/</loc>
+    <loc>https://www.furrytailsbox.com/about/</loc>
     <lastmod>2024-02-14T19:11:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://equeset.github.io/categories/</loc>
+    <loc>https://www.furrytailsbox.com/categories/</loc>
     <lastmod>2024-02-26T21:56:24+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://equeset.github.io/tags/computer/</loc>
+    <loc>https://www.furrytailsbox.com/tags/computer/</loc>
     <lastmod>2024-02-26T21:56:24+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://equeset.github.io/categories/computer/</loc>
+    <loc>https://www.furrytailsbox.com/categories/computer/</loc>
     <lastmod>2024-02-26T21:56:24+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://equeset.github.io/tags/e-mail/</loc>
+    <loc>https://www.furrytailsbox.com/tags/e-mail/</loc>
     <lastmod>2024-02-26T21:56:24+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://equeset.github.io/categories/index/</loc>
+    <loc>https://www.furrytailsbox.com/categories/index/</loc>
     <lastmod>2024-02-26T21:56:24+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://equeset.github.io/tags/organization/</loc>
+    <loc>https://www.furrytailsbox.com/tags/organization/</loc>
     <lastmod>2024-02-26T21:56:24+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://equeset.github.io/post/</loc>
+    <loc>https://www.furrytailsbox.com/post/</loc>
     <lastmod>2024-02-26T21:56:24+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://equeset.github.io/tags/</loc>
+    <loc>https://www.furrytailsbox.com/tags/</loc>
     <lastmod>2024-02-26T21:56:24+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://equeset.github.io/post/2024-02-27-thunderbird/</loc>
+    <loc>https://www.furrytailsbox.com/post/2024-02-27-thunderbird/</loc>
     <lastmod>2024-02-26T21:56:24+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://equeset.github.io/</loc>
+    <loc>https://www.furrytailsbox.com/</loc>
     <lastmod>2024-02-26T21:56:24+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://equeset.github.io/post/2024-02-17-addons/</loc>
+    <loc>https://www.furrytailsbox.com/post/2024-02-17-addons/</loc>
     <lastmod>2024-02-16T22:36:04+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://equeset.github.io/tags/blog_about/</loc>
+    <loc>https://www.furrytailsbox.com/tags/blog_about/</loc>
     <lastmod>2024-02-15T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://equeset.github.io/categories/blog_about/</loc>
+    <loc>https://www.furrytailsbox.com/categories/blog_about/</loc>
     <lastmod>2024-02-15T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://equeset.github.io/post/2024-02-16-test-page/</loc>
+    <loc>https://www.furrytailsbox.com/post/2024-02-16-test-page/</loc>
     <lastmod>2024-02-15T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://equeset.github.io/tags/hugo/</loc>
+    <loc>https://www.furrytailsbox.com/tags/hugo/</loc>
     <lastmod>2024-02-15T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
