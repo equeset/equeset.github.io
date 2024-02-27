@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 小狐狸的杂货框</title>
-    <link>https://www.furrytailsbox.com/categories/</link>
+    <link>https://equeset.github.io/categories/</link>
     <description>Recent content in Categories on 小狐狸的杂货框</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 26 Feb 2024 21:56:24 +0800</lastBuildDate>
-    <atom:link href="https://www.furrytailsbox.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://equeset.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>computer</title>
-      <link>https://www.furrytailsbox.com/categories/computer/</link>
+      <link>https://equeset.github.io/categories/computer/</link>
       <pubDate>Mon, 26 Feb 2024 21:56:24 +0800</pubDate>
-      <guid>https://www.furrytailsbox.com/categories/computer/</guid>
+      <guid>https://equeset.github.io/categories/computer/</guid>
       <description></description>
     </item>
     <item>
       <title>index</title>
-      <link>https://www.furrytailsbox.com/categories/index/</link>
+      <link>https://equeset.github.io/categories/index/</link>
       <pubDate>Mon, 26 Feb 2024 21:56:24 +0800</pubDate>
-      <guid>https://www.furrytailsbox.com/categories/index/</guid>
+      <guid>https://equeset.github.io/categories/index/</guid>
       <description></description>
     </item>
     <item>
       <title>blog_about</title>
-      <link>https://www.furrytailsbox.com/categories/blog_about/</link>
+      <link>https://equeset.github.io/categories/blog_about/</link>
       <pubDate>Thu, 15 Feb 2024 16:01:23 +0800</pubDate>
-      <guid>https://www.furrytailsbox.com/categories/blog_about/</guid>
+      <guid>https://equeset.github.io/categories/blog_about/</guid>
       <description></description>
     </item>
   </channel>

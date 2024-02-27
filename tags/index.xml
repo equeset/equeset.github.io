@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 小狐狸的杂货框</title>
-    <link>https://www.furrytailsbox.com/tags/</link>
+    <link>https://equeset.github.io/tags/</link>
     <description>Recent content in Tags on 小狐狸的杂货框</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 26 Feb 2024 21:56:24 +0800</lastBuildDate>
-    <atom:link href="https://www.furrytailsbox.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://equeset.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>computer</title>
-      <link>https://www.furrytailsbox.com/tags/computer/</link>
+      <link>https://equeset.github.io/tags/computer/</link>
       <pubDate>Mon, 26 Feb 2024 21:56:24 +0800</pubDate>
-      <guid>https://www.furrytailsbox.com/tags/computer/</guid>
+      <guid>https://equeset.github.io/tags/computer/</guid>
       <description></description>
     </item>
     <item>
       <title>e-mail</title>
-      <link>https://www.furrytailsbox.com/tags/e-mail/</link>
+      <link>https://equeset.github.io/tags/e-mail/</link>
       <pubDate>Mon, 26 Feb 2024 21:56:24 +0800</pubDate>
-      <guid>https://www.furrytailsbox.com/tags/e-mail/</guid>
+      <guid>https://equeset.github.io/tags/e-mail/</guid>
       <description></description>
     </item>
     <item>
       <title>organization</title>
-      <link>https://www.furrytailsbox.com/tags/organization/</link>
+      <link>https://equeset.github.io/tags/organization/</link>
       <pubDate>Mon, 26 Feb 2024 21:56:24 +0800</pubDate>
-      <guid>https://www.furrytailsbox.com/tags/organization/</guid>
+      <guid>https://equeset.github.io/tags/organization/</guid>
       <description></description>
     </item>
     <item>
       <title>blog_about</title>
-      <link>https://www.furrytailsbox.com/tags/blog_about/</link>
+      <link>https://equeset.github.io/tags/blog_about/</link>
       <pubDate>Thu, 15 Feb 2024 16:01:23 +0800</pubDate>
-      <guid>https://www.furrytailsbox.com/tags/blog_about/</guid>
+      <guid>https://equeset.github.io/tags/blog_about/</guid>
       <description></description>
     </item>
     <item>
       <title>hugo</title>
-      <link>https://www.furrytailsbox.com/tags/hugo/</link>
+      <link>https://equeset.github.io/tags/hugo/</link>
       <pubDate>Thu, 15 Feb 2024 16:01:23 +0800</pubDate>
-      <guid>https://www.furrytailsbox.com/tags/hugo/</guid>
+      <guid>https://equeset.github.io/tags/hugo/</guid>
       <description></description>
     </item>
   </channel>

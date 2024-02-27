@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog_about on 小狐狸的杂货框</title>
-    <link>https://www.furrytailsbox.com/tags/blog_about/</link>
+    <link>https://equeset.github.io/tags/blog_about/</link>
     <description>Recent content in blog_about on 小狐狸的杂货框</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 15 Feb 2024 16:01:23 +0800</lastBuildDate>
-    <atom:link href="https://www.furrytailsbox.com/tags/blog_about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://equeset.github.io/tags/blog_about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog测试网页</title>
-      <link>https://www.furrytailsbox.com/post/2024-02-16-test-page/</link>
+      <link>https://equeset.github.io/post/2024-02-16-test-page/</link>
       <pubDate>Thu, 15 Feb 2024 16:01:23 +0800</pubDate>
-      <guid>https://www.furrytailsbox.com/post/2024-02-16-test-page/</guid>
+      <guid>https://equeset.github.io/post/2024-02-16-test-page/</guid>
       <description>一个测试文档，讲述了建立此博客的悲惨过程。 跟着教程做了许多遍莫名错了很多以后……终于！！ 反正也不知道错在哪里，总之错着错着就对了，为什么？！</description>
     </item>
   </channel>

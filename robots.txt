@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://www.furrytailsbox.com/sitemap.xml
+Sitemap: https://equeset.github.io/sitemap.xml
