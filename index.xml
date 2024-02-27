@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>杂货框</title>
-    <link>https://equeset.github.io/</link>
-    <description>Recent content on 杂货框</description>
+    <title>小狐狸的杂货框</title>
+    <link>https://www.furrytailsbox.com/</link>
+    <description>Recent content on 小狐狸的杂货框</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Feb 2024 22:36:04 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 21:56:24 +0800</lastBuildDate>
     
-        <atom:link href="https://equeset.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.furrytailsbox.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://equeset.github.io/about/</link>
-      <pubDate>Tue, 07 Mar 2023 16:01:23 +0800</pubDate>
+      <link>https://www.furrytailsbox.com/about/</link>
+      <pubDate>Wed, 14 Feb 2024 19:11:52 +0800</pubDate>
       
-      <guid>https://equeset.github.io/about/</guid>
+      <guid>https://www.furrytailsbox.com/about/</guid>
       
         <description>&lt;p&gt;这是一个建立于2024年2月14日的静态博客。&lt;/p&gt;
 &lt;p&gt;主要依赖一些高超的复制粘贴技巧（真的高超吗？……&lt;/p&gt;
@@ -25,13 +25,64 @@
     </item>
     
     <item>
+      <title>ThunderBird 邮箱日历RSS一体机</title>
+      <link>https://www.furrytailsbox.com/post/2024-02-27-thunderbird/</link>
+      <pubDate>Mon, 26 Feb 2024 21:56:24 +0800</pubDate>
+      
+      <guid>https://www.furrytailsbox.com/post/2024-02-27-thunderbird/</guid>
+      
+        <description>&lt;p&gt;一个非常好用的邮箱 all in one 软件。可以自动邮件筛选分类、会默认屏蔽远程消息以保护隐私、开源免费、键盘快捷键操作方便、支持 matrix 聊天、RSS 订阅、新闻组，归档时 outlook 会按年份自动生成文件夹（其他邮件也可以自己设置），还可以订阅 gmail 日历任务和进行编辑。目前唯一缺点是任务没有详细的分类。&lt;/p&gt;
+&lt;h2 id=&#34;1-登入帐号和基本功能&#34;&gt;1. 登入帐号和基本功能&lt;/h2&gt;
+&lt;p&gt;平时有什么想设置的直接 settings 里面搜关键词就可以找到。&lt;/p&gt;
+&lt;h3 id=&#34;11-添加帐户&#34;&gt;1.1. 添加帐户&lt;/h3&gt;
+&lt;p&gt;右上角三条横线的菜单栏→添加帐户→现有邮箱，输入邮箱的帐号密码，会自动搜索添加 IMAP。要注意如果之前没用过类似软件，那么邮箱帐号本身得去设置里开启 imap 服务/二步认证/身份认证器/APP 专用密码。这一步取决于你用的是谁家的邮箱。&lt;/p&gt;
+&lt;p&gt;第一次连接会连你所有的过往邮件所以会消耗一些时间。&lt;/p&gt;
+&lt;h3 id=&#34;12-为邮件设置自动分类&#34;&gt;1.2. 为邮件设置自动分类&lt;/h3&gt;
+&lt;p&gt;Message Filters 应该是最重要的功能之一。&lt;/p&gt;
+&lt;p&gt;先在左侧你添加的一堆邮件里选中你要设置的那个，然后依旧菜单栏→工具→消息过滤器→新建。然后就是按需求设置了。&lt;/p&gt;
+&lt;p&gt;一共分三截。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.furrytailsbox.com/attachments2024/202402262250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;121-应用过滤器时机&#34;&gt;1.2.1. 应用过滤器时机&lt;/h4&gt;
+&lt;p&gt;你想在什么时候让它们分类？&lt;/p&gt;
+&lt;p&gt;如果是新收的邮件方便归类查看，那么一般就是默认勾选手动启动和发送至垃圾邮件前。如果是归档/发送后要抄送给别人当然就按照需求选择。&lt;/p&gt;
+&lt;h4 id=&#34;122-匹配手段&#34;&gt;1.2.2. 匹配手段&lt;/h4&gt;
+&lt;p&gt;前两个没什么可说的，就是满足所有条件才触发和满足任一既可触发。第三个的含义是对所有邮件执行。嘶……感觉突然话少，主打一个您自己看着办（dbq）。&lt;/p&gt;
+&lt;h4 id=&#34;123-最终去处&#34;&gt;1.2.3. 最终去处&lt;/h4&gt;
+&lt;p&gt;是扔到某个文件夹、加上 tag、设置已读重要性还是怎样。总之就是一个简单明了的三步法。&lt;/p&gt;
+&lt;h2 id=&#34;2-rss-订阅&#34;&gt;2. RSS 订阅&lt;/h2&gt;
+&lt;p&gt;先点击 Feeds 添加一个帐户名称，名字就是本地显示的左侧名称，然后输入订阅链接，比如 &lt;code&gt;https://www.furrytailsbox.com/index.xml&lt;/code&gt; ，设置相应的更新时间之类的相关信息既可。会自己根据网站名称生成不同的文件夹，归档后也会按年份生成文件夹。&lt;/p&gt;
+&lt;h2 id=&#34;3-日历和任务订阅&#34;&gt;3. 日历和任务订阅&lt;/h2&gt;
+&lt;h3 id=&#34;31-日历订阅&#34;&gt;3.1. 日历订阅&lt;/h3&gt;
+&lt;p&gt;主要是 gmail 的日历订阅。很好使。&lt;/p&gt;
+&lt;p&gt;左侧选中日历进去，新建日历→在互联网上→用户名称填一下 gmail 邮箱既可，下面那个不用填，然后就是一步步认证再勾选订阅的日历就可以了。thunderbird 对日历事件是有修改权的，虽然 google calendar 本身的颜色会消失，但是可以在 thunderbird 里二次设置分类 category 来设置颜色，颜色的选择也更自由美观。软件挂后台的话事件可以弹窗提醒。&lt;/p&gt;
+&lt;h3 id=&#34;32-任务订阅&#34;&gt;3.2. 任务订阅&lt;/h3&gt;
+&lt;p&gt;这个就一般般了，因为它的任务没有细分类，就连从 google 直接订阅过来的也会变成一片……毕竟它是靠插件完成的。&lt;/p&gt;
+&lt;p&gt;去添加插件，provider for google calendar，然后再去点添加日历，就会发现多了一个 google calendar 的选项，跟着走就可以了。就，能凑合用但还不够好。&lt;/p&gt;
+&lt;p&gt;如果本身的 task 就喜欢一条不细分的话应该会用的惯，毕竟还有各种重要性、截止日期、分类、完成度选项，挺全乎的。&lt;/p&gt;
+&lt;p&gt;是扔到某个文件夹、加上 tag、设置已读重要性还是怎样。总之就是一个简单明了的三步法。&lt;/p&gt;
+&lt;h2 id=&#34;rss-订阅&#34;&gt;RSS 订阅&lt;/h2&gt;
+&lt;p&gt;先点击 Feeds 添加一个帐户名称，名字就是本地显示的左侧名称，然后输入订阅链接，比如 &lt;code&gt;https://www.furrytailsbox.com/index.xml&lt;/code&gt; ，设置相应的更新时间之类的相关信息既可。会自己根据网站名称生成不同的文件夹，归档后也会按年份生成文件夹。&lt;/p&gt;
+&lt;h2 id=&#34;日历和任务订阅&#34;&gt;日历和任务订阅&lt;/h2&gt;
+&lt;h3 id=&#34;日历订阅&#34;&gt;日历订阅&lt;/h3&gt;
+&lt;p&gt;主要是 gmail 的日历订阅。很好使。&lt;/p&gt;
+&lt;p&gt;左侧选中日历进去，新建日历→在互联网上→用户名称填一下 gmail 邮箱既可，下面那个不用填，然后就是一步步认证再勾选订阅的日历就可以了。thunderbird 对日历事件是有修改权的，虽然 google calendar 本身的颜色会消失，但是可以在 thunderbird 里二次设置分类 category 来设置颜色，颜色的选择也更自由美观。软件挂后台的话事件可以弹窗提醒。&lt;/p&gt;
+&lt;h3 id=&#34;任务订阅&#34;&gt;任务订阅&lt;/h3&gt;
+&lt;p&gt;这个就一般般了，因为它的任务没有细分类，就连从 google 直接订阅过来的也会变成一片……毕竟它是靠插件完成的。&lt;/p&gt;
+&lt;p&gt;去添加插件，provider for google calendar，然后再去点添加日历，就会发现多了一个 google calendar 的选项，跟着走就可以了。就，能凑合用但还不够好。&lt;/p&gt;
+&lt;p&gt;如果本身的 task 就喜欢一条不细分的话应该会用的惯，毕竟还有各种重要性、截止日期、分类、完成度选项，挺全乎的。&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
       <title>浏览器常用插件</title>
-      <link>https://equeset.github.io/post/2024-02-16-%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6/</link>
+      <link>https://www.furrytailsbox.com/post/2024-02-17-addons/</link>
       <pubDate>Fri, 16 Feb 2024 22:36:04 +0800</pubDate>
       
-      <guid>https://equeset.github.io/post/2024-02-16-%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6/</guid>
+      <guid>https://www.furrytailsbox.com/post/2024-02-17-addons/</guid>
       
-        <description>&lt;h3 id=&#34;1-视频浏览&#34;&gt;1. 视频浏览&lt;/h3&gt;
+        <description>&lt;p&gt;一个大致的浏览器常用插件记录。&lt;/p&gt;
+&lt;h3 id=&#34;1-视频浏览&#34;&gt;1. 视频浏览&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;油猴（篡改猴）+HTML 5 播放助手&lt;/strong&gt;:可以调节速度、亮度等基本视频信息，注意快捷键或许与 &lt;a href=&#34;#%5E988abc&#34;&gt;Vimium&lt;/a&gt; 冲突。适用所有不想点来点去调节视频速度且甚至想要调到 2 倍速以上的场景，非常好用。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Open-as-Popup&lt;/strong&gt;：把当前窗口单独弄出去，更简洁且仍可使用网页插件其他插件。适用于屏幕不那么大想尽可能榨干空间的情况（？）&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;FireShot&lt;/strong&gt;：截图插件，免费够使。&lt;/p&gt;
@@ -55,10 +106,10 @@
     
     <item>
       <title>blog测试网页</title>
-      <link>https://equeset.github.io/post/2024-02-16-test-page/</link>
+      <link>https://www.furrytailsbox.com/post/2024-02-16-test-page/</link>
       <pubDate>Thu, 15 Feb 2024 16:01:23 +0800</pubDate>
       
-      <guid>https://equeset.github.io/post/2024-02-16-test-page/</guid>
+      <guid>https://www.furrytailsbox.com/post/2024-02-16-test-page/</guid>
       
         <description>&lt;p&gt;一个测试文档，讲述了建立此博客的悲惨过程。&lt;/p&gt;
 &lt;p&gt;跟着教程做了许多遍莫名错了很多以后……终于！！&lt;/p&gt;
